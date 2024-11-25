@@ -1,6 +1,7 @@
 # Chebychev Parameterization for Woven Fabric Modeling
 
-This is the implementation of the paper "Chebychev Parameterization for Woven Fabric Modeling" by Annika Oehri, Aviv Segall, Jing Ren and Olga Sorkine-Hornung from SIGGRAPH ASIA 2024. 
+This is the implementation of the paper "Chebychev Parameterization for Woven Fabric Modeling" by Annika Oehri*, Aviv Segall*, Jing Ren and Olga Sorkine-Hornung from SIGGRAPH ASIA 2024. 
+(* joint first authors)
 
 **BibTex**
 ```
