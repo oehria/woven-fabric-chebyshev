@@ -1,0 +1,11 @@
+build
+*.o
+*/.idea
+*/.vscode
+.DS_Store
+release
+debug
+.DS_Store
+.idea/
+.vs/
+.vscode/
